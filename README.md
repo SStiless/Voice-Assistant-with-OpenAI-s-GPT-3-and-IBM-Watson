@@ -15,7 +15,7 @@ Voice Assistant using OpenAI GPT-3 and IBM Watson is an application or system th
 To using this repository, run the following commands
 
 ```bash
-git clone https://github.com/firzzairvn/voiceAssistant-OpenAI-IBMWatson.git
+git clone https://github.com/SStiles/voiceAssistant-OpenAI-IBMWatson.git
 ```
 
     
